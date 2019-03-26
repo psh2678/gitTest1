@@ -5,4 +5,5 @@ public class HelloWorld{
 	System.out.print("Hi");
 	System.out.print("Thursday");
 	System.out.print("git Test");
+	System.out.print("git Test2");
 }
